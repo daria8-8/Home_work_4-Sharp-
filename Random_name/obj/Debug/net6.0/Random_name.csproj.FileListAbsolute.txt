@@ -1,0 +1,15 @@
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_4(Sharp)\Random_name\obj\Debug\net6.0\Random_name.csproj.AssemblyReference.cache
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_4(Sharp)\Random_name\obj\Debug\net6.0\Random_name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_4(Sharp)\Random_name\obj\Debug\net6.0\Random_name.AssemblyInfoInputs.cache
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_4(Sharp)\Random_name\obj\Debug\net6.0\Random_name.AssemblyInfo.cs
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_4(Sharp)\Random_name\obj\Debug\net6.0\Random_name.csproj.CoreCompileInputs.cache
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_4(Sharp)\Random_name\bin\Debug\net6.0\Random_name.exe
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_4(Sharp)\Random_name\bin\Debug\net6.0\Random_name.deps.json
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_4(Sharp)\Random_name\bin\Debug\net6.0\Random_name.runtimeconfig.json
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_4(Sharp)\Random_name\bin\Debug\net6.0\Random_name.dll
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_4(Sharp)\Random_name\bin\Debug\net6.0\Random_name.pdb
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_4(Sharp)\Random_name\obj\Debug\net6.0\Random_name.dll
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_4(Sharp)\Random_name\obj\Debug\net6.0\refint\Random_name.dll
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_4(Sharp)\Random_name\obj\Debug\net6.0\Random_name.pdb
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_4(Sharp)\Random_name\obj\Debug\net6.0\Random_name.genruntimeconfig.cache
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_4(Sharp)\Random_name\obj\Debug\net6.0\ref\Random_name.dll
