@@ -1,0 +1,15 @@
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_4(Sharp)\Ex25\obj\Debug\net6.0\Ex25.csproj.AssemblyReference.cache
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_4(Sharp)\Ex25\obj\Debug\net6.0\Ex25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_4(Sharp)\Ex25\obj\Debug\net6.0\Ex25.AssemblyInfoInputs.cache
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_4(Sharp)\Ex25\obj\Debug\net6.0\Ex25.AssemblyInfo.cs
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_4(Sharp)\Ex25\obj\Debug\net6.0\Ex25.csproj.CoreCompileInputs.cache
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_4(Sharp)\Ex25\bin\Debug\net6.0\Ex25.exe
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_4(Sharp)\Ex25\bin\Debug\net6.0\Ex25.deps.json
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_4(Sharp)\Ex25\bin\Debug\net6.0\Ex25.runtimeconfig.json
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_4(Sharp)\Ex25\bin\Debug\net6.0\Ex25.dll
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_4(Sharp)\Ex25\bin\Debug\net6.0\Ex25.pdb
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_4(Sharp)\Ex25\obj\Debug\net6.0\Ex25.dll
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_4(Sharp)\Ex25\obj\Debug\net6.0\refint\Ex25.dll
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_4(Sharp)\Ex25\obj\Debug\net6.0\Ex25.pdb
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_4(Sharp)\Ex25\obj\Debug\net6.0\Ex25.genruntimeconfig.cache
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_4(Sharp)\Ex25\obj\Debug\net6.0\ref\Ex25.dll
